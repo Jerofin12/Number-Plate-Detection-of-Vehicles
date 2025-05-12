@@ -9,8 +9,8 @@ Processes multiple images from a folder
 Displays annotated images directly in Google Colab
 
 # 📁 Dataset
+https://www.kaggle.com/datasets/dataclusterlabs/indian-number-plates-dataset
 Ensure your dataset is structured like:
-
 /Indian_Number_Plates/Sample_Images/
     ├── car1.jpg
     ├── car2.jpg
